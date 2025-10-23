@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ===================== NAME & ROLE ANIMATION ===================== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Sarveshram+A;💻+Full+Stack+Developer;🎨+Designer;🧠+Software+Developer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=+Hi%2C+I'm+Sarveshram+A;+Full+Stack+Developer;+Designer;+Software+Developer" alt="Typing Animation" />
 
 </div>
 
@@ -12,13 +12,13 @@
 I’m a **motivated and growth-oriented professional** passionate about continuous learning, innovation, and collaboration.  
 I love **developing websites**, solving problems, and working on impactful projects that combine **AI, design, and engineering.**
 
-🎓 **B.E. Artificial Intelligence & Machine Learning**  
-📍 **KIT - Kalaignar Karunanidhi Institute of Technology**  
-📫 **sarveshramaiml@gmail.com**
+ **B.E. Artificial Intelligence & Machine Learning**  
+ **KIT - Kalaignar Karunanidhi Institute of Technology**  
+ **sarveshramaiml@gmail.com**
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 <div align="left">
 
 **Languages:**  
@@ -38,14 +38,14 @@ I love **developing websites**, solving problems, and working on impactful proje
 
 ---
 
-### 💼 Projects
-🚀 **AI Form Fill** — AI-powered web tool that automatically extracts user data and fills online forms using NLP and JavaScript.  
-🧠 **Smart Assistive Hat** — AI-driven computer vision project for elderly and physically impaired individuals with SOS detection.  
-💬 **Gesture Recognition System** — Real-time hand gesture recognition using YOLO deep networks.
+###  Projects
+ **AI Form Fill** — AI-powered web tool that automatically extracts user data and fills online forms using NLP and JavaScript.  
+ **Smart Assistive Hat** — AI-driven computer vision project for elderly and physically impaired individuals with SOS detection.  
+ **Gesture Recognition System** — Real-time hand gesture recognition using YOLO deep networks.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sarveshramm&show_icons=true&theme=radical" height="160" />
@@ -57,7 +57,7 @@ I love **developing websites**, solving problems, and working on impactful proje
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 <p align="center">
 <a href="https://sarveshramm.github.io/Personal-Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
@@ -80,4 +80,3 @@ I love **developing websites**, solving problems, and working on impactful proje
 ![Visitor Count](https://komarev.com/ghpvc/?username=sarveshramm&style=for-the-badge&color=blue)
 
 </div>
-
