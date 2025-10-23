@@ -2,13 +2,13 @@
 <div align="center">
 
 <!-- ===================== NAME & ROLE ANIMATION ===================== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=+Hi%2C+I'm+Sarveshram+A;+Full+Stack+Developer;+Designer;+Software+Developer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=+Hi%2C+I'm+Sarveshram+A;+Full+Stack+Developer;+Software+Developer;+AI+Enthusiast" alt="Typing Animation" />
 
 </div>
 
 ---
 
-### 🧍‍♂️ About Me
+###  About Me
 I’m a **motivated and growth-oriented professional** passionate about continuous learning, innovation, and collaboration.  
 I love **developing websites**, solving problems, and working on impactful projects that combine **AI, design, and engineering.**
 
