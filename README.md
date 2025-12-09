@@ -12,9 +12,9 @@
 I’m a **motivated and growth-oriented professional** passionate about continuous learning, innovation, and collaboration.  
 I love **developing websites**, solving problems, and working on impactful projects that combine **AI, design, and engineering.**
 
- **B.E. Artificial Intelligence & Machine Learning**  
- **KIT - Kalaignar Karunanidhi Institute of Technology**  
- **sarveshramaiml@gmail.com**
+**B.E. Artificial Intelligence & Machine Learning**  
+**KIT - Kalaignar Karunanidhi Institute of Technology**  
+**sarveshramaiml@gmail.com**
 
 ---
 
@@ -39,18 +39,24 @@ I love **developing websites**, solving problems, and working on impactful proje
 ---
 
 ###  Projects
- **AI Form Fill** — AI-powered web tool that automatically extracts user data and fills online forms using NLP and JavaScript.  
- **Smart Assistive Hat** — AI-driven computer vision project for elderly and physically impaired individuals with SOS detection.  
- **Gesture Recognition System** — Real-time hand gesture recognition using YOLO deep networks.
+**EDUNTRA AI** — An AI-Powered Education System for Differently-Abled and Mainstream Students.  
+**AUTOFIGURE-AI** — AI transforms text or images into smart, visually rich diagrams across multiple formats such as Flowcharts, ER Models, UML, and DFDs. It offers AI-powered editing, smart coloring, themes, animations, and export options for a seamless and intelligent diagramming experience.  
+**Gesture Recognition System** — Real-time hand gesture recognition using YOLO deep networks.
 
 ---
 
 ###  GitHub Stats
 <div align="center">
 
+<!-- Main GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=sarveshramm&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshramm&theme=radical" height="160" />
+
+<!-- Streak Stats (updated working URL) -->
+<img src="https://streak-stats.demolab.com?user=sarveshramm&theme=radical" height="160" />
+
 <br>
+
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshramm&layout=compact&theme=radical" />
 
 </div>
