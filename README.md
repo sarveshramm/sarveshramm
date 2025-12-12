@@ -77,8 +77,10 @@ I love **developing websites**, solving problems, and working on impactful proje
 <a href="https://www.codechef.com/users/kit23bam047" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
 </a>
+<a href="https://codolio.com/profile/sarveshram.A" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-Portfolio-purple?style=for-the-badge&logo=starship&logoColor=white" />
+</a>
 </p>
-
 ---
 
 <div align="center">
