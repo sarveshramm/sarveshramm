@@ -39,10 +39,13 @@ I love **developing websites**, solving problems, and working on impactful proje
 ---
 
 ###  Projects
-**EDUNTRA AI** — An AI-Powered Education System for Differently-Abled and Mainstream Students.  
-**AUTOFIGURE-AI** — AI transforms text or images into smart, visually rich diagrams across multiple formats such as Flowcharts, ER Models, UML, and DFDs. It offers AI-powered editing, smart coloring, themes, animations, and export options for a seamless and intelligent diagramming experience.  
-**Gesture Recognition System** — Real-time hand gesture recognition using YOLO deep networks.
-
+**GLINT** — An AI-powered professional networking and freelance hiring platform built on the MERN Stack. Features AI-driven talent recommendations, portfolio quality analysis using Deep Learning, fraud detection, real-time collaboration, and intelligent creator discovery.
+**InstallGen AI** — An autonomous multi-agent DevOps platform that automates software installation, configuration, security auditing, and deployment verification using AI agents, FastAPI, React, and Google Gemini.
+**SoloBoss AI**— An Agentic AI platform that automates freelance job discovery and applications by generating ATS-friendly resumes, matching relevant opportunities, and submitting personalized job applications autonomously.
+**EDUNTRA AI**— An AI-powered education platform that delivers personalized learning, career guidance, multilingual AI tutoring, accessibility support, and analytics for differently-abled and mainstream students.
+**AUTOFIGURE-AI** — AI transforms text or images into professional diagrams including Flowcharts, UML, ER Models, DFDs, and Mind Maps with intelligent editing, theming, and export capabilities.
+**KnockSense** — An assistive IoT solution using ESP8266 that detects door knock patterns and provides vibration, LCD, and buzzer alerts to help deaf and mute individuals identify visitors.
+**Gesture Recognition System**— A real-time computer vision application for hand gesture recognition using YOLO deep learning models to enable touchless human-computer interaction.
 ---
 
 ###  GitHub Stats
