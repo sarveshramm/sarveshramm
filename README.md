@@ -38,15 +38,21 @@ I love **developing websites**, solving problems, and working on impactful proje
 
 ---
 
-###  Projects
-**GLINT** — An AI-powered professional networking and freelance hiring platform built on the MERN Stack. Features AI-driven talent recommendations, portfolio quality analysis using Deep Learning, fraud detection, real-time collaboration, and intelligent creator discovery.
-**InstallGen AI** — An autonomous multi-agent DevOps platform that automates software installation, configuration, security auditing, and deployment verification using AI agents, FastAPI, React, and Google Gemini.
-**SoloBoss AI**— An Agentic AI platform that automates freelance job discovery and applications by generating ATS-friendly resumes, matching relevant opportunities, and submitting personalized job applications autonomously.
-**EDUNTRA AI**— An AI-powered education platform that delivers personalized learning, career guidance, multilingual AI tutoring, accessibility support, and analytics for differently-abled and mainstream students.
-**AUTOFIGURE-AI** — AI transforms text or images into professional diagrams including Flowcharts, UML, ER Models, DFDs, and Mind Maps with intelligent editing, theming, and export capabilities.
-**KnockSense** — An assistive IoT solution using ESP8266 that detects door knock patterns and provides vibration, LCD, and buzzer alerts to help deaf and mute individuals identify visitors.
-**Gesture Recognition System**— A real-time computer vision application for hand gesture recognition using YOLO deep learning models to enable touchless human-computer interaction.
----
+## Projects
+
+- **GLINT** — AI-powered professional networking and freelance hiring platform built with the MERN Stack, featuring intelligent talent matching, Deep Learning-based portfolio analysis, fraud detection, real-time messaging, and personalized creator recommendations.
+
+- **InstallGen AI** — Autonomous multi-agent DevOps platform that automates software installation, configuration, security auditing, and deployment verification using FastAPI, React, Google Gemini, and AI-driven workflow orchestration.
+
+- **SoloBoss AI** — Agentic AI career platform that automates ATS-friendly resume generation, freelance job discovery, intelligent job matching, and personalized application submission through autonomous AI agents.
+
+- **EDUNTRA AI** — AI-powered education platform providing personalized learning, multilingual tutoring, career guidance, accessibility support for differently-abled learners, and AI-driven academic analytics.
+
+- **AUTOFIGURE-AI** — Intelligent diagram generation platform that converts text or images into Flowcharts, UML, ER Models, DFDs, and Mind Maps with AI-assisted editing, customization, and export capabilities.
+
+- **KnockSense** — IoT-based assistive smart door alert system using ESP8266 that detects knock patterns and provides vibration, LCD, and buzzer notifications to improve accessibility for deaf and mute individuals.
+
+- **Gesture Recognition System** — Real-time computer vision application leveraging YOLO deep learning models for accurate hand gesture recognition and touchless human-computer interaction.
 
 ###  GitHub Stats
 <div align="center">
