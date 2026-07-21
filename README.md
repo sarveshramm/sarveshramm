@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Sarveshram+A;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+Python+%7C+Java;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+,+I'm+Sarveshram+A;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Developer;Building+AI+Powered+Applications;React+%7C+Next.js+%7C+Python+%7C+Java;Always+Learning+Something+New"/>
 
 </p>
 
